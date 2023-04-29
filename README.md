@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vhamel@outlook.cl**
 
-- 📄 Know about my experiences [I've done full stack websites for multiple local agencies and businesses](I've done full stack websites for multiple local agencies and businesses)
+- 📄 Know about my experiences: I've done full stack websites for multiple local agencies and businesses.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
