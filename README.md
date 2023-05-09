@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vicente Hamel</h1>
 <h3 align="center">A passionate full stack developer from Santiago, Chile</h3>
 
-- 🔭 I’m currently working on [CustoCopy](custocopy.com)
+- 🔭 I’m currently working on [PharmaPal](pharmapal.com)
 
 - 🌱 I’m currently learning **C, Python, Node.js, MongoDB**
 
